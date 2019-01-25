@@ -1,0 +1,12 @@
+Hexo:
+    link: https://hexo.io/zh-cn/docs/index.html
+    avatar: https://hexo.io/logo.svg
+    descr: "hexo 文档"
+Material Theme:
+    link: https://material.viosey.com/docs/#/start
+    avatar: /img/Material Theme.png
+    descr: "hexo Material Theme文档"
+Material ICON:
+    link: https://material.io/icons/
+    avatar: https://material.io/icons/webcomponents/custom_components/material-io-nav/static/images/icons_light.svg
+    descr: "hexo Material ICON"    
